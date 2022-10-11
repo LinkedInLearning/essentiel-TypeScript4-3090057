@@ -1,7 +1,8 @@
 {
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build"
+    "build": "vite build",
+    "typecheck": "tsc"
   },
   "devDependencies": {
     "typescript": "^4.8.4",
