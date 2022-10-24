@@ -27,7 +27,10 @@ Ce repository a une branche `main` pour le cours. Il a aussi une branche `node-t
  Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/elise-patrikainen).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]:  https://
-[lil-thumbnail-url]: https://
-[lil-URL-trainer]: [https://](https://www.linkedin.com/learning/instructors/elise-patrikainen?)
-![image](https://user-images.githubusercontent.com/84396123/197479431-db71f02f-cb4f-410c-b6d2-44cd61ea6105.png)
+[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-URL-trainer]: https://
+
+
+
+[1]: # (End of FR-Instruction ###############################################################################################)
