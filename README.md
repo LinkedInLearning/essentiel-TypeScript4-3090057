@@ -29,5 +29,5 @@ Ce repository a une branche `main` pour le cours. Il a aussi une branche `node-t
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]:  https://
 [lil-thumbnail-url]: https://
-[lil-URL-trainer]: https://
+[lil-URL-trainer]: [https://](https://www.linkedin.com/learning/instructors/elise-patrikainen?u=104)
 ![image](https://user-images.githubusercontent.com/84396123/197479148-0f470c50-60de-4632-98ad-70c686e5931f.png)
