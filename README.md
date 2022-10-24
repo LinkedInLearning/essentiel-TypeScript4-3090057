@@ -1,51 +1,25 @@
 # Nom final de la formation
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L'essentiel de TypeScript 4`. Le cours entier est disponible sur [LinkedIn Learning]().
 
-![L'essentiel de TypeScript 4][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 Dans ce cours, nous essayerons d'avoir une approche à la fois pratique et synthétique de Typescript, et nous verrons les features principales du langage ainsi que des exemples d'utilisation dans des projets de test.
 
 ## Instructions
 
-Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
+Ce repository a une branche `main` pour le cours. Il a aussi une branche `node-typescript-configuration` pour les apprenants qui souhaient suivre ce cours sur Node.js plutôt que dans l'environnement de développement [Vite](https://vitejs.dev/) (cf [la section installation](https://github.com/LinkedInLearning/essentiel-TypeScript4-3090057/tree/node-typescript-configuration#installation)).
 
-## Branches
+*Nb : j'ai choisi d'utiliser **Vite** dans ce cours car je pense que c'est actuellement l'environnements de développement **supportant nativement TypeScript** le plus **performant** et **mature** (en particulier je pense que, pour l'instant, l'éco-système de Deno n'est pas encore assez développé pour le rendre aussi facile d'utilisation que Vite). J'ai néanmoins essayé de rendre le cours le plus **"environnement-agnostique"** possible, afin de permettre à chacun de suivre la formation dans l'environnement de son choix.*  
 
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
-La branche `02_03_d` correspond au code du début de la vidéo.  
-La branche `02_03_f` correspond au code à la fin de la vidéo.  
-La branche master correspond au code à la fin de la formation. 
 
 ## Installation
 
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin d'installer node 18 sur votre machine. Vous pouvez aussi suivre le cours sur Deno si vous le souhaitez. 
+1. Pour utiliser ces fichiers d’exercice, vous avez besoin d'installer node 18 sur votre machine. Ici nous utilisons [Vite](https://vitejs.dev/) comme environnement de développement, mais vous pouvez aussi suivre le cours sur Node si vous le souhaitez (vous trouverez un exemple de configuration sur la branche `node-typescript-configuration`) ou même sur l'environnement de votre choix (Deno par exemple). 
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
 
 
 ### Formateur
 
-**Nom du formateur** 
+**Elise Patrikainen** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
-
-[0]: # L'essentiel d'Angular
-[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-d-angular/bienvenue-dans-l-essentiel-d-angular?autoplay=true
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-[lil-URL-trainer]: https://
-
-[1]: # L'essentiel de Node.js
-[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-node-js-2/bienvenue-dans-l-essentiel-de-node-js?autoplay=true
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-[lil-URL-trainer]: https://
-
-[2]: # Angular: gérer les états d'une application avec NgRx 
-[lil-course-url]: https://www.linkedin.com/learning/angular-gerer-les-etats-d-application-avec-redux-et-ngrx
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-[lil-URL-trainer]: https://
-
-[3]: # L'essentiel de Symfony 4
-[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-symfony-4
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-[lil-URL-trainer]: https://
+ Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/elise-patrikainen).
