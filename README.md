@@ -10,6 +10,8 @@ DESCRIPTION DE LA FORMATION
 
 Dans ce cours, nous essayerons d'avoir une approche à la fois pratique et synthétique de Typescript, et nous verrons les features principales du langage ainsi que des exemples d'utilisation dans des projets de test.
 
+## Branches
+
 Ce repository a une branche `main` pour le cours. Il a aussi une branche `node-typescript-configuration` pour les apprenants qui souhaient suivre ce cours sur Node.js plutôt que dans l'environnement de développement [Vite](https://vitejs.dev/) (cf [la section installation](https://github.com/LinkedInLearning/essentiel-TypeScript4-3090057/tree/node-typescript-configuration#installation)).
 
 *Nb : j'ai choisi d'utiliser **Vite** dans ce cours car je pense que c'est actuellement l'environnement de développement **supportant nativement TypeScript** le plus **performant** et **mature** (en particulier je pense que, pour l'instant, l'éco-système de Deno n'est pas encore assez développé pour le rendre aussi facile d'utilisation que Vite). J'ai néanmoins essayé de rendre le cours le plus **"environnement-agnostique"** possible, afin de permettre à chacun de suivre la formation dans l'environnement de son choix.*  
