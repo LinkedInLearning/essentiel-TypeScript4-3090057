@@ -1,10 +1,10 @@
-# Nom final de la formation
+# L'essentiel de TypeScript 4
 
 Ce dossier Repository est lié au cours `L'essentiel de TypeScript 4`. Le cours entier est disponible sur [LinkedIn Learning]().
 
 ![Nom final de la formation][lil-thumbnail-url]
 
-DESCRIPTION DE LA FORMATION
+TypeScript est l'un des langages de programmation les plus appréciés des développeurs. Parmi les outils open source, de plus en plus d'entre eux supportent nativement TypeScript. Ainsi, découvrez ce cours afin d'adopter ce langage pour créer vos applications. Elise Patrikainen, lead développeuse front-end, vous présente une vue synthétique du fonctionnement de TypeScript ainsi que des cas d'utilisation courants. Ensemble, vous allez voir comment mettre en place votre environnement de développement avec Vite ou JavaScript, le type check, la transpilation et bien d'autres actions comme le typage d'objet ou de classe.
 
 ## Instructions
 
