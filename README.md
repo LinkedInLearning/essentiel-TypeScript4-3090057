@@ -29,8 +29,8 @@ Ce repository a une branche `main` pour le cours. Il a aussi une branche `node-t
 Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/elise-patrikainen).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: 
-[lil-thumbnail-url]: 
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-typescript-4
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQHxnmpJUrF4wQ/learning-public-crop_675_1200/0/1671006825547?e=2147483647&v=beta&t=9saUsiW3VYJMGO5XVk72zdpqahksgn4uEM_MhFJBSWw
 [lil-URL-trainer]: [https://](https://www.linkedin.com/learning/instructors/elise-patrikainen?)
 
 [1]: # (End of FR-Instruction ###############################################################################################)
