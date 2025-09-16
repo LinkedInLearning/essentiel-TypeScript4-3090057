@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `L'essentiel de TypeScript 4`. Le cours 
 
 TypeScript est l'un des langages de programmation les plus appréciés des développeurs. Parmi les outils open source, de plus en plus d'entre eux supportent nativement TypeScript. Ainsi, découvrez ce cours afin d'adopter ce langage pour créer vos applications. Elise Patrikainen, lead développeuse front-end, vous présente une vue synthétique du fonctionnement de TypeScript ainsi que des cas d'utilisation courants. Ensemble, vous allez voir comment mettre en place votre environnement de développement avec Vite ou JavaScript, le type check, la transpilation et bien d'autres actions comme le typage d'objet ou de classe.
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail.
+
 ## Instructions
 
 Dans ce cours, nous essayerons d'avoir une approche à la fois pratique et synthétique de Typescript, et nous verrons les features principales du langage ainsi que des exemples d'utilisation dans des projets de test.
